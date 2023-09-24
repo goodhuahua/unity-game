@@ -1,0 +1,4 @@
+repository "My project@lifelong_newcode@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
