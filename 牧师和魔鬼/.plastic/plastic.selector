@@ -1,0 +1,4 @@
+repository "牧师和魔鬼@lifelong_newcode@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
